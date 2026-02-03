@@ -1,0 +1,40 @@
+[
+  {
+    "time_casa": "Flamengo",
+    "time_fora": "Corinthians",
+    "placar": "1 x 2",
+    "data": "2026-02-03",
+    "rodada": "1ª Rodada",
+    "estatisticas": {
+      "posse_bola_casa": 60,
+      "posse_bola_fora": 40,
+      "finalizacoes_casa": 8,
+      "finalizacoes_fora": 5,
+      "escanteios_casa": 6,
+      "escanteios_fora": 3
+    },
+    "tendencias": {
+      "over_25": true,
+      "ambas_marcam": true
+    }
+  },
+  {
+    "time_casa": "Palmeiras",
+    "time_fora": "São Paulo",
+    "placar": "2 x 0",
+    "data": "2026-02-03",
+    "rodada": "1ª Rodada",
+    "estatisticas": {
+      "posse_bola_casa": 55,
+      "posse_bola_fora": 45,
+      "finalizacoes_casa": 12,
+      "finalizacoes_fora": 3,
+      "escanteios_casa": 8,
+      "escanteios_fora": 2
+    },
+    "tendencias": {
+      "over_25": true,
+      "ambas_marcam": false
+    }
+  }
+]
