@@ -1,18 +1,40 @@
 [
   {
     "time_casa": "Flamengo",
-    "time_fora": "Vasco",
-    "placar": "3 x 1",
+    "time_fora": "Corinthians",
+    "placar": "1 x 2",
     "status": "Finalizado",
     "data": "2026-02-04",
     "horario": "16:00",
     "estadio": "Maracanã",
     "arbitro": "Anderson Daronco",
     "estatisticas": {
-      "posse_bola_casa": 65,
-      "posse_bola_fora": 35,
-      "finalizacoes_casa": 15,
-      "finalizacoes_fora": 4,
+      "posse_bola_casa": 60,
+      "posse_bola_fora": 40,
+      "finalizacoes_casa": 8,
+      "finalizacoes_fora": 5,
+      "escanteios_casa": 6,
+      "escanteios_fora": 3
+    },
+    "tendencias": {
+      "over_25": true,
+      "ambas_marcam": true
+    }
+  },
+  {
+    "time_casa": "Palmeiras",
+    "time_fora": "São Paulo",
+    "placar": "2 x 0",
+    "status": "Finalizado", 
+    "data": "2026-02-04",
+    "horario": "19:00",
+    "estadio": "Allianz Parque",
+    "arbitro": "Raphael Claus",
+    "estatisticas": {
+      "posse_bola_casa": 55,
+      "posse_bola_fora": 45,
+      "finalizacoes_casa": 12,
+      "finalizacoes_fora": 3,
       "escanteios_casa": 8,
       "escanteios_fora": 2
     },
@@ -22,14 +44,14 @@
     }
   },
   {
-    "time_casa": "Corinthians",
-    "time_fora": "Palmeiras",
+    "time_casa": "Atlético-MG",
+    "time_fora": "Cruzeiro",
     "placar": "0 x 0",
     "status": "Agendado",
     "data": "2026-02-05",
     "horario": "20:00",
-    "estadio": "Neo Química Arena",
-    "arbitro": "Raphael Claus",
+    "estadio": "Arena MRV",
+    "arbitro": "Não definido",
     "estatisticas": {
       "posse_bola_casa": 0,
       "posse_bola_fora": 0,
