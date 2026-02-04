@@ -8,6 +8,7 @@
     "horario": "16:00",
     "estadio": "Maracanã",
     "arbitro": "Anderson Daronco",
+    "rodada": "1ª Rodada",
     "estatisticas": {
       "posse_bola_casa": 60,
       "posse_bola_fora": 40,
@@ -25,11 +26,12 @@
     "time_casa": "Palmeiras",
     "time_fora": "São Paulo",
     "placar": "2 x 0",
-    "status": "Finalizado", 
+    "status": "Finalizado",
     "data": "2026-02-04",
     "horario": "19:00",
     "estadio": "Allianz Parque",
     "arbitro": "Raphael Claus",
+    "rodada": "1ª Rodada",
     "estatisticas": {
       "posse_bola_casa": 55,
       "posse_bola_fora": 45,
@@ -40,28 +42,6 @@
     },
     "tendencias": {
       "over_25": true,
-      "ambas_marcam": false
-    }
-  },
-  {
-    "time_casa": "Atlético-MG",
-    "time_fora": "Cruzeiro",
-    "placar": "0 x 0",
-    "status": "Agendado",
-    "data": "2026-02-05",
-    "horario": "20:00",
-    "estadio": "Arena MRV",
-    "arbitro": "Não definido",
-    "estatisticas": {
-      "posse_bola_casa": 0,
-      "posse_bola_fora": 0,
-      "finalizacoes_casa": 0,
-      "finalizacoes_fora": 0,
-      "escanteios_casa": 0,
-      "escanteios_fora": 0
-    },
-    "tendencias": {
-      "over_25": false,
       "ambas_marcam": false
     }
   }
