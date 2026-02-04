@@ -9,14 +9,11 @@
     "derrotas": 0,
     "gols_pro": 2,
     "gols_contra": 1,
-    "saldo_gols": 1,
-    "ultimos_5": "V-----",
-    "mandante": "1V 0E 0D",
-    "visitante": "0V 0E 0D"
+    "saldo_gols": 1
   },
   {
     "posicao": 2,
-    "time": "Palmeiras",
+    "time": "Palmeiras", 
     "pontos": 3,
     "jogos": 1,
     "vitorias": 1,
@@ -24,10 +21,7 @@
     "derrotas": 0,
     "gols_pro": 2,
     "gols_contra": 0,
-    "saldo_gols": 2,
-    "ultimos_5": "V-----",
-    "mandante": "1V 0E 0D",
-    "visitante": "0V 0E 0D"
+    "saldo_gols": 2
   },
   {
     "posicao": 3,
@@ -39,10 +33,7 @@
     "derrotas": 1,
     "gols_pro": 1,
     "gols_contra": 2,
-    "saldo_gols": -1,
-    "ultimos_5": "D-----",
-    "mandante": "0V 0E 1D",
-    "visitante": "0V 0E 0D"
+    "saldo_gols": -1
   },
   {
     "posicao": 4,
@@ -54,9 +45,6 @@
     "derrotas": 1,
     "gols_pro": 0,
     "gols_contra": 2,
-    "saldo_gols": -2,
-    "ultimos_5": "D-----",
-    "mandante": "0V 0E 1D",
-    "visitante": "0V 0E 0D"
+    "saldo_gols": -2
   }
 ]
