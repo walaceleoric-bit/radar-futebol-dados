@@ -1,48 +1,23 @@
 [
   {
-    "time_casa": "Flamengo",
-    "time_fora": "Corinthians",
-    "placar": "1 x 2",
-    "status": "Finalizado",
-    "data": "2026-02-04",
-    "horario": "16:00",
-    "estadio": "Maracanã",
-    "arbitro": "Anderson Daronco",
-    "rodada": "1ª Rodada",
-    "estatisticas": {
-      "posse_bola_casa": 60,
-      "posse_bola_fora": 40,
-      "finalizacoes_casa": 8,
-      "finalizacoes_fora": 5,
-      "escanteios_casa": 6,
-      "escanteios_fora": 3
-    },
-    "tendencias": {
-      "over_25": true,
-      "ambas_marcam": true
-    }
+    "TimeCasa": "Fluminense",
+    "TimeFora": "Bahia",
+    "Placar": "1 x 0",
+    "Data": "2026-02-05",
+    "Rodada": "Rodada Atual"
   },
   {
-    "time_casa": "Palmeiras",
-    "time_fora": "São Paulo",
-    "placar": "2 x 0",
-    "status": "Finalizado",
-    "data": "2026-02-04",
-    "horario": "19:00",
-    "estadio": "Allianz Parque",
-    "arbitro": "Raphael Claus",
-    "rodada": "1ª Rodada",
-    "estatisticas": {
-      "posse_bola_casa": 55,
-      "posse_bola_fora": 45,
-      "finalizacoes_casa": 12,
-      "finalizacoes_fora": 3,
-      "escanteios_casa": 8,
-      "escanteios_fora": 2
-    },
-    "tendencias": {
-      "over_25": true,
-      "ambas_marcam": false
-    }
+    "TimeCasa": "Chapecoense",
+    "TimeFora": "Vasco da Gama",
+    "Placar": "0 x 0",
+    "Data": "2026-02-05",
+    "Rodada": "Rodada Atual"
+  },
+  {
+    "TimeCasa": "Coritiba",
+    "TimeFora": "Cruzeiro",
+    "Placar": "0 x 0",
+    "Data": "2026-02-05",
+    "Rodada": "Rodada Atual"
   }
 ]
