@@ -1,25 +1,16 @@
 [
   {
-    "TimeCasa": "Fluminense",
-    "TimeFora": "Bahia",
-    "Placar": "1 x 0",
-    "Data": "2026-02-05",
-    "Rodada": "Rodada Atual"
+    "TimeCasa": "Flamengo",
+    "TimeFora": "Corinthians",
+    "Placar": "1 x 2",
+    "Data": "2026-02-07",
+    "Rodada": "1\u00AA Rodada"
   },
   {
-    "TimeCasa": "Chapecoense",
-    "TimeFora": "Vasco da Gama",
-    "Placar": "0 x 0",
-    "Data": "2026-02-05",
-    "Rodada": "Rodada Atual"
-  },
-  {
-    "TimeCasa": "Coritiba",
-    "TimeFora": "Cruzeiro",
-    "Placar": "0 x 0",
-    "Data": "2026-02-05",
-    "Rodada": "Rodada Atual"
+    "TimeCasa": "Palmeiras",
+    "TimeFora": "S\u00E3o Paulo",
+    "Placar": "2 x 0",
+    "Data": "2026-02-07",
+    "Rodada": "1\u00AA Rodada"
   }
-
 ]
-
